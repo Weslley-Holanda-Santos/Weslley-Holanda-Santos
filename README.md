@@ -2,7 +2,7 @@
 <li>🧑‍💼Estou em busca de uma vaga de estagio ti como desenvolvedor</li><br>
 <li>📚Estudando Html,Css e Javascript</li><br>
 <li>😊Pronouns:Ele/Dele</li>
-
+<a href='https://github.com/Weslley-Holanda-Santos'>
 <div align="center">
   <a href="https://github.com/Weslley-Holanda-Santos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Weslley-Holanda-Santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -22,3 +22,5 @@
   <a href = "mailto:weslleyh98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/weslley-holanda-santos-865399209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+
+  ![Snake animation](https://github.com/Weslley-Holanda-Santos/Weslley-Holanda-Santos/blob/output/github-contribution-grid-snake.svg)
