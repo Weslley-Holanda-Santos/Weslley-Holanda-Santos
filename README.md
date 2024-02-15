@@ -1,7 +1,7 @@
 ## Olá!!Eu sou o Weslley Holanda Santos, Estudante de ti apaixonado por tecnologia
 
 <li>🧑‍💼Estou em busca de uma vaga de estagio ti como desenvolvedor</li><br>
-<li>📚Estudando Javascript e React</li><br>
+<li>📚Estudando React e Nodejs</li><br>
 <li>😊Pronouns:Ele/Dele</li><br>
 <a href='https://github.com/Weslley-Holanda-Santos'>
 <div align="center">
